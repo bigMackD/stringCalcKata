@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringCalcKata", "stringCalcKata\stringCalcKata.csproj", "{28069201-A5CD-401A-BA01-82EE571E14BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringCalcKata.Tests", "stringCalcKata.Tests\stringCalcKata.Tests.csproj", "{ED0172B0-4B54-4ACF-AB44-1F5D9D312CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28069201-A5CD-401A-BA01-82EE571E14BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28069201-A5CD-401A-BA01-82EE571E14BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28069201-A5CD-401A-BA01-82EE571E14BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0172B0-4B54-4ACF-AB44-1F5D9D312CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0172B0-4B54-4ACF-AB44-1F5D9D312CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0172B0-4B54-4ACF-AB44-1F5D9D312CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0172B0-4B54-4ACF-AB44-1F5D9D312CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
